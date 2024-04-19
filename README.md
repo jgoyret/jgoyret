@@ -1,2 +1,2 @@
-Hi! I'm Juan, a multimedia artist with special interest in 3D web programming, net-art and experimental game development. 
+Hi! I'm Juan, a multimedia artist with special interest in 3D web programming, net-art and experimental game development.<br>
 Thanks 4 passing by :)
